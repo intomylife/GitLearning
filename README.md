@@ -7,3 +7,6 @@
 dev: 在新建的 dev 分支中更改了文件。
 
 dev_merge_1：在 dev_merge_1 分支中更改了文件，等待 dev 分支合并。
+
+dev_merge_2：在 dev_merge_2 分支中更改了文件，等待 dev 分支合并。
+
